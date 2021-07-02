@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">K1Lesson1</string>
+
+
+    <!-- MainActivity -->
+    <string name="writeText">Введите текст</string>
+    <string name="save">Сохранить</string>
+    <string name="warning">EditText не может быть пустым!</string>
+
+    <!-- ActivityTwo -->
+    <string name="send">Отправить</string>
+
+</resources>
